@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-repositorio de prueba para el prepcurse de henry
+prueba para crear repositorio y clonarlo desde gidhub hasta mi escritorio local
